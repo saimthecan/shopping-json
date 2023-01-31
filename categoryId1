@@ -1,0 +1,98 @@
+[
+  {
+    "id": 2,
+    "categoryId": 1,
+    "productName": "Chang",
+    "quantityPerUnit": "24 - 12 oz bottles",
+    "unitPrice": "21",
+    "unitsInStock": 17
+  },
+  {
+    "id": 4,
+    "categoryId": 1,
+    "productName": "Chef Anton's Cajun Seasoning",
+    "quantityPerUnit": "48 - 6 oz jars",
+    "unitPrice": "222",
+    "unitsInStock": 53
+  },
+  {
+    "id": 24,
+    "categoryId": 1,
+    "productName": "Guaraná Fantástica",
+    "quantityPerUnit": "12 - 355 ml cans",
+    "unitPrice": 4.5,
+    "unitsInStock": 20
+  },
+  {
+    "id": 34,
+    "categoryId": 1,
+    "productName": "Sasquatch Ale",
+    "quantityPerUnit": "24 - 12 oz bottles",
+    "unitPrice": 14,
+    "unitsInStock": 111
+  },
+  {
+    "id": 35,
+    "categoryId": 1,
+    "productName": "Steeleye Stout",
+    "quantityPerUnit": "24 - 12 oz bottles",
+    "unitPrice": 18,
+    "unitsInStock": 20
+  },
+  {
+    "id": 38,
+    "categoryId": 1,
+    "productName": "Côte de Blaye",
+    "quantityPerUnit": "12 - 75 cl bottles",
+    "unitPrice": 263.5,
+    "unitsInStock": 17
+  },
+  {
+    "id": 39,
+    "categoryId": 1,
+    "productName": "Chartreuse verte",
+    "quantityPerUnit": "750 cc per bottle",
+    "unitPrice": 18,
+    "unitsInStock": 69
+  },
+  {
+    "id": 43,
+    "categoryId": 1,
+    "productName": "Ipoh Coffee",
+    "quantityPerUnit": "16 - 500 g tins",
+    "unitPrice": 46,
+    "unitsInStock": 17
+  },
+  {
+    "id": 67,
+    "categoryId": 1,
+    "productName": "Laughing Lumberjack Lager",
+    "quantityPerUnit": "24 - 12 oz bottles",
+    "unitPrice": 14,
+    "unitsInStock": 52
+  },
+  {
+    "id": 70,
+    "categoryId": 1,
+    "productName": "Outback Lager",
+    "quantityPerUnit": "24 - 355 ml bottles",
+    "unitPrice": 15,
+    "unitsInStock": 15
+  },
+  {
+    "id": 75,
+    "categoryId": 1,
+    "productName": "Rhönbräu Klosterbier",
+    "quantityPerUnit": "24 - 0.5 l bottles",
+    "unitPrice": 7.75,
+    "unitsInStock": 125
+  },
+  {
+    "id": 76,
+    "categoryId": 1,
+    "productName": "Lakkaliköör",
+    "quantityPerUnit": "500 m",
+    "unitPrice": 18,
+    "unitsInStock": 57
+  }
+]
