@@ -1,0 +1,90 @@
+[
+  {
+    "id": 11,
+    "categoryId": 4,
+    "productName": "Queso Cabrales",
+    "quantityPerUnit": "1 kg pkg.",
+    "unitPrice": 21,
+    "unitsInStock": 22
+  },
+  {
+    "id": 12,
+    "categoryId": 4,
+    "productName": "Queso Manchego La Pastora",
+    "quantityPerUnit": "10 - 500 g pkgs.",
+    "unitPrice": 38,
+    "unitsInStock": 86
+  },
+  {
+    "id": 31,
+    "categoryId": 4,
+    "productName": "Gorgonzola Telino",
+    "quantityPerUnit": "12 - 100 g pkgs",
+    "unitPrice": 12.5,
+    "unitsInStock": 0
+  },
+  {
+    "id": 32,
+    "categoryId": 4,
+    "productName": "Mascarpone Fabioli",
+    "quantityPerUnit": "24 - 200 g pkgs.",
+    "unitPrice": 32,
+    "unitsInStock": 9
+  },
+  {
+    "id": 33,
+    "categoryId": 4,
+    "productName": "Geitost",
+    "quantityPerUnit": "500 g",
+    "unitPrice": 2.5,
+    "unitsInStock": 112
+  },
+  {
+    "id": 59,
+    "categoryId": 4,
+    "productName": "Raclette Courdavault",
+    "quantityPerUnit": "5 kg pkg.",
+    "unitPrice": 55,
+    "unitsInStock": 79
+  },
+  {
+    "id": 60,
+    "categoryId": 4,
+    "productName": "Camembert Pierrot",
+    "quantityPerUnit": "15 - 300 g rounds",
+    "unitPrice": 34,
+    "unitsInStock": 19
+  },
+  {
+    "id": 69,
+    "categoryId": 4,
+    "productName": "Gudbrandsdalsost",
+    "quantityPerUnit": "10 kg pkg.",
+    "unitPrice": 36,
+    "unitsInStock": 26
+  },
+  {
+    "id": 71,
+    "categoryId": 4,
+    "productName": "Flotemysost",
+    "quantityPerUnit": "10 - 500 g pkgs.",
+    "unitPrice": 21.5,
+    "unitsInStock": 26
+  },
+  {
+    "id": 72,
+    "categoryId": 4,
+    "productName": "Mozzarella di Giovanni",
+    "quantityPerUnit": "24 - 200 g pkgs.",
+    "unitPrice": 34.8,
+    "unitsInStock": 14
+  },
+  {
+    "productName": "Laptop",
+    "categoryId": 4,
+    "unitPrice": "1000",
+    "quantityPerUnit": "1",
+    "unitsInStock": "2",
+    "id": 78
+  }
+]
