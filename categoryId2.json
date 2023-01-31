@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "categoryId": 2,
+    "productName": "Chai",
+    "quantityPerUnit": "48 - 6 oz jars",
+    "unitPrice": "24",
+    "unitsInStock": 53
+  },
+  {
+    "id": 5,
+    "categoryId": 2,
+    "productName": "Chef Anton's Gumbo Mix",
+    "quantityPerUnit": "36 boxes",
+    "unitPrice": "21",
+    "unitsInStock": 0
+  },
+  {
+    "id": 6,
+    "categoryId": 2,
+    "productName": "Grandma's Boysenberry Spread",
+    "quantityPerUnit": "12 - 8 oz jars",
+    "unitPrice": 25,
+    "unitsInStock": 120
+  },
+  {
+    "id": 8,
+    "categoryId": 2,
+    "productName": "Northwoods Cranberry Sauce",
+    "quantityPerUnit": "12 - 12 oz jars",
+    "unitPrice": 40,
+    "unitsInStock": 100
+  },
+  {
+    "id": 15,
+    "categoryId": 2,
+    "productName": "Genen Shouyu",
+    "quantityPerUnit": "24 - 250 ml bottles",
+    "unitPrice": 15.5,
+    "unitsInStock": 39
+  },
+  {
+    "id": 44,
+    "categoryId": 2,
+    "productName": "Gula Malacca",
+    "quantityPerUnit": "20 - 2 kg bags",
+    "unitPrice": 19.45,
+    "unitsInStock": 27
+  },
+  {
+    "id": 61,
+    "categoryId": 2,
+    "productName": "Sirop d'érable",
+    "quantityPerUnit": "24 - 500 ml bottles",
+    "unitPrice": 28.5,
+    "unitsInStock": 113
+  },
+  {
+    "id": 63,
+    "categoryId": 2,
+    "productName": "Vegie-spread",
+    "quantityPerUnit": "15 - 625 g jars",
+    "unitPrice": 43.9,
+    "unitsInStock": 24
+  },
+  {
+    "id": 65,
+    "categoryId": 2,
+    "productName": "Louisiana Fiery Hot Pepper Sauce",
+    "quantityPerUnit": "32 - 8 oz bottles",
+    "unitPrice": 21.05,
+    "unitsInStock": 76
+  },
+  {
+    "id": 66,
+    "categoryId": 2,
+    "productName": "Louisiana Hot Spiced Okra",
+    "quantityPerUnit": "24 - 8 oz jars",
+    "unitPrice": 17,
+    "unitsInStock": 4
+  },
+  {
+    "id": 77,
+    "categoryId": 2,
+    "productName": "Original Frankfurter grüne Soße",
+    "quantityPerUnit": "12 boxes",
+    "unitPrice": 13,
+    "unitsInStock": 32
+  }
+]
