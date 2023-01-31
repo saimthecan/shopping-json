@@ -1,0 +1,58 @@
+[
+  {
+    "id": 22,
+    "categoryId": 5,
+    "productName": "Gustaf's Knäckebröd",
+    "quantityPerUnit": "24 - 500 g pkgs.",
+    "unitPrice": 21,
+    "unitsInStock": 104
+  },
+  {
+    "id": 23,
+    "categoryId": 5,
+    "productName": "Tunnbröd",
+    "quantityPerUnit": "12 - 250 g pkgs.",
+    "unitPrice": 9,
+    "unitsInStock": 61
+  },
+  {
+    "id": 42,
+    "categoryId": 5,
+    "productName": "Singaporean Hokkien Fried Mee",
+    "quantityPerUnit": "32 - 1 kg pkgs.",
+    "unitPrice": 14,
+    "unitsInStock": 26
+  },
+  {
+    "id": 52,
+    "categoryId": 5,
+    "productName": "Filo Mix",
+    "quantityPerUnit": "16 - 2 kg boxes",
+    "unitPrice": 7,
+    "unitsInStock": 38
+  },
+  {
+    "id": 56,
+    "categoryId": 5,
+    "productName": "Gnocchi di nonna Alice",
+    "quantityPerUnit": "24 - 250 g pkgs.",
+    "unitPrice": 38,
+    "unitsInStock": 21
+  },
+  {
+    "id": 57,
+    "categoryId": 5,
+    "productName": "Ravioli Angelo",
+    "quantityPerUnit": "24 - 250 g pkgs.",
+    "unitPrice": 19.5,
+    "unitsInStock": 36
+  },
+  {
+    "id": 64,
+    "categoryId": 5,
+    "productName": "Wimmers gute Semmelknödel",
+    "quantityPerUnit": "20 bags x 4 pieces",
+    "unitPrice": 33.25,
+    "unitsInStock": 22
+  }
+]
