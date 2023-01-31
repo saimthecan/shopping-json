@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9,
+    "categoryId": 6,
+    "productName": "Mishi Kobe Niku",
+    "quantityPerUnit": "18 - 500 g pkgs.",
+    "unitPrice": 97,
+    "unitsInStock": 29
+  },
+  {
+    "id": 17,
+    "categoryId": 6,
+    "productName": "Guiza",
+    "quantityPerUnit": "20 - 1 kg tins",
+    "unitPrice": 39,
+    "unitsInStock": 0
+  },
+  {
+    "id": 29,
+    "categoryId": 6,
+    "productName": "Thüringer Rostbratwurst",
+    "quantityPerUnit": "50 bags x 30 sausgs.",
+    "unitPrice": 123.79,
+    "unitsInStock": 0
+  },
+  {
+    "id": 53,
+    "categoryId": 6,
+    "productName": "Perth Pasties",
+    "quantityPerUnit": "48 pieces",
+    "unitPrice": 32.8,
+    "unitsInStock": 0
+  },
+  {
+    "id": 54,
+    "categoryId": 6,
+    "productName": "Tourtière",
+    "quantityPerUnit": "16 pies",
+    "unitPrice": 7.45,
+    "unitsInStock": 21
+  },
+  {
+    "id": 55,
+    "categoryId": 6,
+    "productName": "Pâté chinois",
+    "quantityPerUnit": "24 boxes x 2 pies",
+    "unitPrice": 24,
+    "unitsInStock": 115
+  }
+]
